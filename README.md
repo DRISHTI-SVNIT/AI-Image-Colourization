@@ -74,7 +74,7 @@ Now what the CNN does is treats the image as a RGB channel and applies Neural Ne
 Not covering the deep aspects how the process goes on in the CNN we will now discuss the different phases that we undergo during the whole project
  
 ALPHA PHASE
-DESCRIPTION 
+DESCRIPTION -
  
  
 Consider any black and white image so if we want to represent it as an array or matrix we can do it by considering pixel intensity.
